@@ -1,0 +1,464 @@
+{
+  "models": [
+    {
+      "name": "Глайдеры",
+      "models": [
+        {
+          "name": "Стандарт 1",
+          "models": [
+            {
+              "name": "Ястреб",
+              "path": "mod/glider/st1_base.g3db"
+            },
+            {
+              "name": "Скарабей",
+              "path": "mod/glider/st1_trans.g3db"
+            },
+            {
+              "name": "Молния",
+              "path": "mod/glider/st1_invader.g3db"
+            },
+            {
+              "name": "Пиранья",
+              "path": "mod/glider/st1_attacker.g3db"
+            },
+            {
+              "name": "Рассекатель",
+              "path": "mod/glider/st1_hunter.g3db"
+            },
+            {
+              "name": "Мантикора",
+              "path": "mod/glider/st1_scorpion.g3db"
+            },
+            {
+              "name": "Жало",
+              "path": "mod/glider/st1_spike.g3db"
+            }
+          ]
+        },
+        {
+          "name": "Стандарт 2",
+          "models": [
+            {
+              "name": "Коршун",
+              "path": "mod/glider/st2_base.g3db"
+            },
+            {
+              "name": "Скарабей-2",
+              "path": "mod/glider/st2_bigtrance.g3db"
+            },
+            {
+              "name": "Молния-2",
+              "path": "mod/glider/st2_biginvader.g3db"
+            },
+            {
+              "name": "Богомол",
+              "path": "mod/glider/st2_attacker.g3db"
+            },
+            {
+              "name": "Призрак",
+              "path": "mod/glider/st2_blackgamer.g3db"
+            },
+            {
+              "name": "Скорпион",
+              "path": "mod/glider/st2_nargoon.g3db"
+            },
+            {
+              "name": "Броненосец",
+              "path": "mod/glider/st2_reconer.g3db"
+            },
+            {
+              "name": "Минотавр",
+              "path": "mod/glider/st2_under.g3db"
+            }
+          ]
+        },
+        {
+          "name": "Стандарт 3",
+          "models": [
+            {
+              "name": "Грифон",
+              "path": "mod/glider/st3_base.g3db"
+            },
+            {
+              "name": "Тягач",
+              "path": "mod/glider/st3_cargo.g3db"
+            },
+            {
+              "name": "Разрушитель",
+              "path": "mod/glider/st3_destroyer.g3db"
+            },
+            {
+              "name": "Тень демона",
+              "path": "mod/glider/st3_eyestone.g3db"
+            },
+            {
+              "name": "Кошмар",
+              "path": "mod/glider/st3_finder1.g3db"
+            },
+            {
+              "name": "Кошмар-2",
+              "path": "mod/glider/st3_finder2.g3db"
+            },
+            {
+              "name": "Смерчь",
+              "path": "mod/glider/st3_first1.g3db"
+            },
+            {
+              "name": "Торнадо",
+              "path": "mod/glider/st3_first2.g3db"
+            },
+            {
+              "name": "Медведь",
+              "path": "mod/glider/st3_stai.g3db"
+            },
+            {
+              "name": "Краб",
+              "path": "mod/glider/st3_wild.g3db"
+            }
+          ]
+        },
+        {
+          "name": "Стандарт 4",
+          "models": [
+            {
+              "name": "Дракон",
+              "path": "mod/glider/st4_first1.g3db"
+            },
+            {
+              "name": "Феникс",
+              "path": "mod/glider/st4_first2.g3db"
+            },
+            {
+              "name": "Сокрушитель",
+              "path": "mod/glider/st4_flash.g3db"
+            },
+            {
+              "name": "Меч судьбы",
+              "path": "mod/glider/st4_frontier.g3db"
+            },
+            {
+              "name": "Намтар",
+              "path": "mod/glider/st4_forward.g3db"
+            },
+            {
+              "name": "Чёрный намтар",
+              "path": "mod/glider/st4_forward_black.g3db"
+            },
+            {
+              "name": "Крылья дьявола",
+              "path": "mod/glider/st4_sinigr.g3db"
+            },
+            {
+              "name": "Хищник",
+              "path": "mod/glider/st4_transporter1.g3db"
+            },
+            {
+              "name": "Медведь-2",
+              "path": "mod/glider/st4_troops.g3db"
+            },
+            {
+              "name": "Мастодонт",
+              "path": "mod/glider/st4_mastodont.g3db"
+            },
+            {
+              "name": "Большегруз",
+              "path": "mod/glider/st4_transporter2.g3db"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Реакторы",
+      "models": [
+        {
+          "name": "Глюонный реактор",
+          "path": "mod/reactor/MOD_EQP_REAK_GLUON_01.g3db"
+        },
+        {
+          "name": "Нуклонный реактор",
+          "path": "mod/reactor/MOD_EQP_REAK_NUKL_01.g3db"
+        },
+        {
+          "name": "Мезоннный реактор",
+          "path": "mod/reactor/MOD_EQP_REAK_MEZON_01.g3db"
+        },
+        {
+          "name": "Биохимический реактор",
+          "path": "mod/reactor/MOD_EQP_REAK_BIOCHEMICAL.g3db"
+        },
+        {
+          "name": "Коллапс-реактор",
+          "path": "mod/reactor/MOD_EQP_REAK_COLLAPS.g3db"
+        }
+      ]
+    },
+    {
+      "name": "Двигатели",
+      "models": [
+        {
+          "name": "Ионный",
+          "path": "mod/engine/MOD_EQP_DVIG_ION_01.g3db"
+        },
+        {
+          "name": "Плазменный",
+          "path": "mod/engine/MOD_EQP_DVIG_PLAZM_01.g3db"
+        },
+        {
+          "name": "Анигиляционный",
+          "path": "mod/engine/MOD_EQP_DVIG_ANIHIL_01.g3db"
+        },
+        {
+          "name": "Вакуумный",
+          "path": "mod/engine/MOD_EQP_DVIG_VACUUM_01.g3db"
+        },
+        {
+          "name": "Хаос-двигатель",
+          "path": "mod/engine/MOD_EQP_DVIG_CHAOS.g3db"
+        },
+        {
+          "name": "Импульсный гравитационный",
+          "path": "mod/engine/MOD_EQP_DVIG_GRAVITY.g3db"
+        }
+      ]
+    },
+    {
+      "name": "Броня",
+      "models": [
+        {
+          "name": "Титаниумная броня",
+          "path": "mod/armor/MOD_EQP_ARMORTITAN_01.g3db"
+        },
+        {
+          "name": "Полимерная броня",
+          "path": "mod/armor/MOD_EQP_ARMORPOLYMER_01.g3db"
+        },
+        {
+          "name": "Мультиорганическая броня",
+          "path": "mod/armor/MOD_EQP_ARMORMULTI_01.g3db"
+        },
+        {
+          "name": "Тетрамолекулярная броня",
+          "path": "mod/armor/MOD_EQP_ARMORTETRA_01.g3db"
+        },
+        {
+          "name": "Нуль-броня",
+          "path": "mod/armor/MOD_EQP_ARMORZERO_01.g3db"
+        },
+        {
+          "name": "Сотовая броня",
+          "path": "mod/armor/MOD_EQP_ARMOR_CELL.g3db",
+          "anim": "mod/armor/TEX_TOV_ANTIV_ANIM.png",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "name": "Энергощиты",
+      "models": [
+        {
+          "name": "Тип 1",
+          "path": "mod/shield/MOD_EQP_ENERGY_GENERATOR_ST1.g3db"
+        },
+        {
+          "name": "Тип 2",
+          "path": "mod/shield/MOD_EQP_ENERGY_GENERATOR_ST2.g3db"
+        },
+        {
+          "name": "Тип 3",
+          "path": "mod/shield/MOD_EQP_ENERGY_GENERATOR_ST3.g3db"
+        },
+        {
+          "name": "Тип 4",
+          "path": "mod/shield/MOD_EQP_ENERGY_GENERATOR_ST4.g3db"
+        }
+      ]
+    },
+    {
+      "name": "Оружие",
+      "models": [
+        {
+          "name": "Легкое",
+          "models": [
+            {
+              "name": "Стандарт 1",
+              "models": [
+                {
+                  "name": "Импульсный лазер тип 1",
+                  "path": "mod/gun/MOD_GUN_PULSE_LAZER.g3db"
+                },
+                {
+                  "name": "Лучевой лазер тип 1",
+                  "path": "mod/gun/MOD_GUN_RAY_LAZER.g3db"
+                },
+                {
+                  "name": "Атомная пушка",
+                  "path": "mod/gun/MOD_GUN_ATOMIC_BEAM.g3db"
+                },
+                {
+                  "name": "Импульсный лазер тип 2",
+                  "path": "mod/gun/MOD_GUN_PULSE_GAZER.g3db"
+                },
+                {
+                  "name": "Плазменная пушка",
+                  "path": "mod/gun/MOD_GUN_PLASMA_GUN.g3db"
+                },
+                {
+                  "name": "Кислотный хобот",
+                  "path": "mod/gun/MOD_GUN_ACID_TRUNC.g3db"
+                },
+                {
+                  "name": "Нуль-пушка",
+                  "path": "mod/gun/MOD_GUN_DRAINER.g3db"
+                }
+              ]
+            },
+            {
+              "name": "Стандарт 2",
+              "models": [
+                {
+                  "name": "Лучевой лазер тип 2",
+                  "path": "mod/gun/MOD_GUN_RAY_GAZER.g3db"
+                },
+                {
+                  "name": "Двуствольная атомная пушка",
+                  "path": "mod/gun/MOD_GUN_2_BARRELED_ATOMIC_GUN.g3db"
+                },
+                {
+                  "name": "Гамма-лазер",
+                  "path": "mod/gun/MOD_GUN_GAMMA_LASER.g3db"
+                },
+                {
+                  "name": "Мезонный разрядник",
+                  "path": "mod/gun/MOD_GUN_MEZON_DISCHARGER.g3db"
+                },
+                {
+                  "name": "Электрический разрядник",
+                  "path": "mod/gun/MOD_GUN_ELECTRO_DISCHARGER.g3db"
+                },
+                {
+                  "name": "Инфраатомный плазмомет",
+                  "path": "mod/gun/MOD_GUN_INFRAATOMIC_PLASMA_GUN.g3db"
+                }
+              ]
+            },
+            {
+              "name": "Стандарт 3",
+              "models": [
+                {
+                  "name": "Трехствольная атомная пушка",
+                  "path": "mod/gun/MOD_GUN_3_BARRELED_ATOMIC_GUN.g3db"
+                },
+                {
+                  "name": "Мультиволновой излучатель",
+                  "path": "mod/gun/MOD_GUN_MULTIWAVE_OSCILLATOR.g3db"
+                },
+                {
+                  "name": "Четырехcтвольный импульсный излучатель",
+                  "path": "mod/gun/MOD_GUN_FOUR_BARRELED_IMP_GAZER.g3db"
+                },
+                {
+                  "name": "Эмиттер полипов",
+                  "path": "mod/gun/MOD_GUN_POLYP_EMITTER.g3db"
+                }
+              ]
+            },
+            {
+              "name": "Стандарт 4",
+              "models": [
+                {
+                  "name": "СВЧ-излучатель",
+                  "path": "mod/gun/MOD_GUN_MICROWAVE_OSCILLATOR.g3db"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Тяжелое",
+          "models": [
+            {
+              "name": "Стандарт 3",
+              "models": [
+                {
+                  "name": "Гравитационная пушка",
+                  "path": "mod/gun/MOD_GUN_GRAVE.g3db"
+                },
+                {
+                  "name": "Стазис-генератор",
+                  "path": "mod/gun/MOD_GUN_STASIS_GENERATOR.g3db"
+                },
+                {
+                  "name": "Дестабилизатор поля",
+                  "path": "mod/gun/MOD_GUN_FIELD_DESTABILIZER.g3db"
+                },
+                {
+                  "name": "Хаос-излучатель",
+                  "path": "mod/gun/MOD_GUN_XAOS_RADIATOR.g3db"
+                },
+                {
+                  "name": "Генератор сгустков энергии",
+                  "path": "mod/gun/MOD_GUN_TSL240.g3db"
+                },
+                {
+                  "name": "Ускоритель Х-частиц",
+                  "path": "mod/gun/MOD_GUN_X-PARTICLE_ACCELERATOR.g3db"
+                },
+                {
+                  "name": "Тахионный нагреватель",
+                  "path": "mod/gun/MOD_GUN_TACHYON_HEATER.g3db"
+                },
+                {
+                  "name": "Электромагнитная пушка",
+                  "path": "mod/gun/MOD_GUN_FAST_ELECTRO_BEAM.g3db"
+                }
+              ]
+            },
+            {
+              "name": "Стандарт 4",
+              "models": [
+                {
+                  "name": "Генератор хаос-напряжения",
+                  "path": "mod/gun/MOD_GUN_CHAOS_GENERATOR.g3db"
+                },
+                {
+                  "name": "Квантовый деструктор",
+                  "path": "mod/gun/MOD_GUN_MOLECULAR_DESTRUCTOR.g3db"
+                },
+                {
+                  "name": "Плазменный завихритель",
+                  "path": "mod/gun/MOD_GUN_PLAZMA_TURBULENTOR.g3db"
+                },
+                {
+                  "name": "Генератор сгустков энергии",
+                  "path": "mod/gun/MOD_GUN_TSL240.g3db"
+                },
+                {
+                  "name": "Генератор Х-сгустков",
+                  "path": "mod/gun/MOD_GUN_X-PARTICLE_EMITTER.g3db"
+                },
+                {
+                  "name": "Аннигиляционная пушка",
+                  "path": "mod/gun/MOD_GUN_ANTI-MATTER_GUN.g3db"
+                },
+                {
+                  "name": "Кварковый ускоритель",
+                  "path": "mod/gun/MOD_GUN_QUARK_ACCELERATOR.g3db"
+                },
+                {
+                  "name": "Безоткатная пушка",
+                  "path": "mod/gun/MOD_GUN_RAILGUN.g3db"
+                },
+                {
+                  "name": "Импульсный мегалазер",
+                  "path": "mod/gun/MOD_GUN_IMPULSE_MEGALAZER.g3db"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
