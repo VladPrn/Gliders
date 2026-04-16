@@ -249,7 +249,7 @@
         {
           "name": "Сотовая броня",
           "path": "mod/armor/MOD_EQP_ARMOR_CELL.g3db",
-          "anim": "mod/armor/TEX_TOV_ANTIV_ANIM.png",
+          "anim": "mod/armor/TEX_TOV_ANTIV_ANIM.jpg",
           "index": 1
         }
       ]
